@@ -41,7 +41,7 @@ Focused on **incremental improvements** and **clear, readable diffs** that make 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RVSkeLe&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RVSkeLe&bg_color=0d1117&color=58a6ff&line=ff7b72&point=ff7b72&area=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RVSkeLe&theme=tokyonight" height="160" />
 </p>
 
 ---
