@@ -26,7 +26,7 @@
 ---
 
 ### 🔧 Tech & Tools
-`Java 21+` • `Paper 1.21+` • `Optimization` • `Spark profilers` • `Git / GitHub`
+`Java 21+` • `Paper 1.21+` • `Optimization` • `Spark profilers`
 
 ---
 
@@ -35,13 +35,19 @@ I mainly focus on PRs that:
 - improve performance without breaking compatibility
 - clean up outdated code and documentation
 
-Focused on **incremental improvements** and **clear, readable diffs** that make maintainers' lives easier.
+Focused on **maximum performance** and **clear, readable diffs** that make maintainers' lives easier.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RVSkeLe&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RVSkeLe&theme=tokyonight" height="160" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RVSkeLe&theme=tokyonight" 
+    height="160" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RVSkeLe&theme=tokyonight" 
+    height="160" 
+  />
 </p>
 
 ---
