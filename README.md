@@ -6,6 +6,7 @@
 </p>
 
 ---
+![](https://komarev.com/ghpvc/?username=RVSkeLe)
 
 ### 🧠 About Me
 - 🧩 Contribute to open-source projects — improving performance, structure, and maintainability.
