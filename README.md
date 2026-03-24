@@ -1,59 +1,32 @@
-<h1 align="center">👋 Hey, I'm <a href="https://github.com/RVSkeLe">RVSkeLe</a></h1>
+<h1 align="center">Hello there! I'm <a href="https://github.com/RVSkeLe">RVSkeLe</a></h1>
 
 <p align="center">
-  <b>Open Source Contributor • Minecraft Plugin Optimizer</b><br>
-  <sub>Focused on performance, clean code, and meaningful PRs.</sub>
+  <b>Open Source Contributor • Minecraft Nerd</b><br>
 </p>
 
 ---
-![](https://komarev.com/ghpvc/?username=RVSkeLe)
+![Profile views](https://komarev.com/ghpvc/?username=RVSkeLe)
 
-### 🧠 About Me
-- 🧩 Contribute to open-source projects — improving performance, structure, and maintainability.
-- ⚙️ Specialize in **Minecraft plugin optimization** (mainly Paper).
-- 🔍 Focus on profiling, reducing lag, and rewriting inefficient logic.
-- 🛠️ Experienced in **troubleshooting Minecraft servers**: analyzing TPS drops, memory leaks, thread leaks, networking problems and high memory allocation.
-- 💬 Enjoy helping maintainers refine PRs and clean up legacy codebases.
+### About Me
+I optimize things. I also love troubleshooting servers and reading Spark profilers :3
 
 ---
 
-### 🚀 Featured Work
+### 🚀 Optimized plugins
 - 🪜 **[Elevators](https://github.com/RVSkeLe/Elevators)** – reduced hopper and other methods overhead, improving the plugin performance.
 - 🎮 **[GameModeInventories](https://github.com/RVSkeLe/GameModeInventories)** – corrected experience calculation logic to prevent XP loss caused by integer overflows.
 - 👥 **[BetterTeams](https://github.com/RVSkeLe/BetterTeams)** – optimized Hopper events and Adventure integration, reducing lag from ~30mspt to 0.01mspt at most.  
-- 🐉 **[SmartSpawner](https://github.com/RVSkeLe/SmartSpawner)** – refactored spawner ticking and loot tables to greatly improve performance.
+- 🐉 **[SmartSpawner](https://github.com/RVSkeLe/SmartSpawner)** – refactored spawner ticking and hoppers to greatly improve performance.
 - 🏷️ **[ClickVillagers](https://github.com/RVSkeLe/ClickVillagers)** – refactored hopper integration and improved overall plugin performance.
+- 🗺️ **[Pl3xMap](https://github.com/RVSkeLe/Pl3xMap)** – cut allocation rates by ~50% by avoiding (un)boxing Integers in a hotpath.
+- 🏪 **[AdvancedRegionMarket](https://github.com/RVSkeLe/advanced-region-market)** – overall code cleanup and code optimizations in hotpaths.
+- 🚪 **[SimplePortals](https://github.com/RVSkeLe/SimplePortals)** – improved performance in Player and Entity move events, fixed false flag detections by AntiViruses.
 
----
-
-### 🔧 Tech & Tools
-`Java 21+` • `Paper 1.21+` • `Optimization` • `Spark profilers`
-
----
-
-### 🤝 Contributions
-I mainly focus on PRs that:
-- improve performance without breaking compatibility
-- clean up outdated code and documentation
-
-Focused on **maximum performance** and **clear, readable diffs** that make maintainers' lives easier.
-
----
+...and more
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RVSkeLe&theme=tokyonight" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RVSkeLe&theme=tokyonight&show_icons=true" 
     height="160" 
   />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RVSkeLe&theme=tokyonight" 
-    height="160" 
-  />
-</p>
-
----
-
-<p align="center">
-  <i>Optimizing plugins. Improving code. Troubleshooting servers. Contributing back.</i><br>
-  <a href="https://github.com/RVSkeLe">github.com/RVSkeLe</a>
 </p>
