@@ -24,9 +24,4 @@ I optimize things. I also love troubleshooting servers and reading Spark profile
 
 ...and more
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RVSkeLe&theme=tokyonight&show_icons=true" 
-    height="160" 
-  />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RVSkeLe&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=RVSkeLe&theme=tokyonight)
