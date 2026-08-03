@@ -11,6 +11,13 @@
 I optimize things. I also love troubleshooting servers and reading Spark profilers :3
 
 ---
+### 🛠️ My projects
+
+- 🚱 **[NoWorldFlood](https://github.com/RVSkeLe/NoWorldFlood)** – Paper and Folia plugin that prevents flooding caused by flying machines abusing waterlogged blocks.
+- ⚡ **[Profiler-Utils](https://github.com/RVSkeLe/Profiler-Utils)** – Collection of scripts I use to debug Minecraft and Java-related issues.
+- 🗃️ **[PaperLib - Fork](https://github.com/RVSkeLe/PaperLib)** – Fork of PaperLib that adds useful APIs and fixes compatibility with newer Minecraft versions (26.1+).
+
+---
 
 ### 🚀 Optimized plugins
 - 🪜 **[Elevators](https://github.com/RVSkeLe/Elevators)** – reduced hopper and other methods overhead, improving the plugin performance.
