@@ -12,7 +12,7 @@ I optimize things. I also love troubleshooting servers and reading Spark profile
 
 ---
 ### 🛠️ My projects
-
+- 📖 **[Spark Profiler Guide](https://gist.github.com/RVSkeLe/b03e51dfe77080b842de780635f79431)** – Practical guide to diagnosing Minecraft server performance issues using spark, covering CPU usage, memory allocations, lag spikes, Netty bottlenecks, and memory leaks.
 - 🚱 **[NoWorldFlood](https://github.com/RVSkeLe/NoWorldFlood)** – Paper and Folia plugin that prevents flooding caused by flying machines abusing waterlogged blocks.
 - ⚡ **[Profiler-Utils](https://github.com/RVSkeLe/Profiler-Utils)** – Collection of scripts I use to debug Minecraft and Java-related issues.
 - 🗃️ **[PaperLib - Fork](https://github.com/RVSkeLe/PaperLib)** – Fork of PaperLib that adds useful APIs and fixes compatibility with newer Minecraft versions (26.1+).
